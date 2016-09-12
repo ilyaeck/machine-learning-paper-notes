@@ -10,11 +10,11 @@ Tags: RL, dialogue, QA
   Tags: seq, hierarchical
 * A Decomposable Attention Model for Natural Language Inference [[arXiv]](https://arxiv.org/abs/1606.01933) <br>
   Tags: NLI, attention
-* End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning [[arXiv]](https://arxiv.org/abs/1606.01269)
+* End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning [[arXiv]](https://arxiv.org/abs/1606.01269)<br>
   Tags: RL, dialogue
-* An Ensemble Method to Produce High-Quality Word Embeddings [[Github]](https://github.com/LuminosoInsight/conceptnet-numberbatch)
+* An Ensemble Method to Produce High-Quality Word Embeddings [[Github]](https://github.com/LuminosoInsight/conceptnet-numberbatch)<br>
   Tags: conceptnet, word embeddings, semantics, ensemble
-* Exploring the Limits of Language Modeling [[arXiv]](https://arxiv.org/abs/1602.02410)
+* Exploring the Limits of Language Modeling [[arXiv]](https://arxiv.org/abs/1602.02410) <br>
   Tags: real-world language model 
 
 
