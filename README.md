@@ -16,9 +16,17 @@ Tags: RL, dialogue, QA
   Tags: conceptnet, word embeddings, semantics, ensemble
 * Exploring the Limits of Language Modeling [[arXiv]](https://arxiv.org/abs/1602.02410) <br>
   Tags: real-world language model 
+* A Fast Unified Model for Parsing and Language Understanding [[arXiv]](http://arxiv.org/abs/1603.06021) <br>
+  Tags: language model, parsing, NLI
+* Context2vec: Learning Generic Context Embedding
+with Bidirectional LSTM [[ConLL2016]](http://u.cs.biu.ac.il/~melamuo/publications/context2vec_conll16.pdf)
+  Tags: seq, compositionality, language model 
+* Layers of Interpretation: On Grammar and Compositionality [[ACL2016]](http://aclweb.org/anthology/W/W15/W15-0128.pdf) <br>
+  Tags: compositionality
 
 
 ### Fundamental Deep Learning 
+* Learning to learn by gradient descent - by gradient descent! [[arXiv]](https://arxiv.org/abs/1606.04474) <br> 
 
 
 ### Computer Vision 
