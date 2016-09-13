@@ -32,7 +32,7 @@ with Bidirectional LSTM [[ConLL2016]](http://u.cs.biu.ac.il/~melamuo/publication
 
 
 ### Computer Vision 
-* VQA: Visual Question Answering [[paper]](http://visualqa.org/VQA_ICCV2015.pdf) 
+* VQA: Visual Question Answering [[paper]](http://visualqa.org/VQA_ICCV2015.pdf) <br>
   Tags: QA, multimodal 
 
 
