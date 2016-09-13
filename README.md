@@ -16,7 +16,7 @@ Tags: RL, dialogue, QA
   Tags: RL, dialogue
 * An Ensemble Method to Produce High-Quality Word Embeddings [[Github]](https://github.com/LuminosoInsight/conceptnet-numberbatch)<br>
   Tags: conceptnet, word embeddings, semantics, ensemble
-* Exploring the Limits of Language Modeling [[arXiv]](https://arxiv.org/abs/1602.02410) [code+data](https://github.com/tensorflow/models/tree/master/lm_1b) <br>
+* Exploring the Limits of Language Modeling [[arXiv]](https://arxiv.org/abs/1602.02410) [[code+data]](https://github.com/tensorflow/models/tree/master/lm_1b) <br>
   Tags: real-world language model 
 * A Fast Unified Model for Parsing and Language Understanding [[arXiv]](http://arxiv.org/abs/1603.06021) <br>
   Tags: language model, parsing, NLI
