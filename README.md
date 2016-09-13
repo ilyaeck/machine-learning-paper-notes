@@ -10,7 +10,7 @@ Tags: RL, dialogue, QA
   Tags: seq, hierarchical
 * A Decomposable Attention Model for Natural Language Inference [[arXiv]](https://arxiv.org/abs/1606.01933) <br>
   Tags: NLI, attention
-* WikiReading: a Novel Large Scale Language Undersatnding Task Over Wikipedia [via Andrej Karpathy](https://github.com/karpathy/paper-notes/blob/master/wikireading.md) [[paper]](http://www.aclweb.org/anthology/P/P16/P16-1145.pdf)
+* WikiReading: a Novel Large Scale Language Undersatnding Task Over Wikipedia [summarized by Andrej Karpathy](https://github.com/karpathy/paper-notes/blob/master/wikireading.md) [[paper]](http://www.aclweb.org/anthology/P/P16/P16-1145.pdf)
   Tags: QA, data, benchmarks 
 * End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning [[arXiv]](https://arxiv.org/abs/1606.01269)<br>
   Tags: RL, dialogue
@@ -32,6 +32,8 @@ with Bidirectional LSTM [[ConLL2016]](http://u.cs.biu.ac.il/~melamuo/publication
 
 
 ### Computer Vision 
+* VQA: Visual Question Answering [[paper]](http://visualqa.org/VQA_ICCV2015.pdf) 
+  Tags: QA, multimodal 
 
 
 ### Misc 
