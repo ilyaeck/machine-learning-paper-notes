@@ -14,6 +14,8 @@ Tags: RL, dialogue, QA
   Tags: QA, data, benchmarks 
 * End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning [[arXiv]](https://arxiv.org/abs/1606.01269)<br>
   Tags: RL, dialogue
+* Learning to Communicate with Deep Multi-Agent Reinforcement Learning [[Github]](https://github.com/iassael/learning-to-communicate) <br>
+  Tags: RL, multi-agent 
 * An Ensemble Method to Produce High-Quality Word Embeddings [[Github]](https://github.com/LuminosoInsight/conceptnet-numberbatch)<br>
   Tags: conceptnet, word embeddings, semantics, ensemble
 * Exploring the Limits of Language Modeling [[arXiv]](https://arxiv.org/abs/1602.02410) [[code+data]](https://github.com/tensorflow/models/tree/master/lm_1b) <br>
