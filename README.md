@@ -19,7 +19,7 @@ Tags: RL, dialogue, QA
 * Exploring the Limits of Language Modeling [[arXiv]](https://arxiv.org/abs/1602.02410) [[code+data]](https://github.com/tensorflow/models/tree/master/lm_1b) <br>
   Tags: real-world language model 
 * Neural Machine Translation in Linear Time [[arXiv]](https://arxiv.org/abs/1610.10099) <br>
-  Tags: language model, translation
+  Tags: language model, translation, long-range dependencies
 * A Fast Unified Model for Parsing and Language Understanding [[arXiv]](http://arxiv.org/abs/1603.06021) <br>
   Tags: language model, parsing, NLI
 * Context2vec: Learning Generic Context Embedding
