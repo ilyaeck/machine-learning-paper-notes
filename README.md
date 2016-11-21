@@ -31,6 +31,7 @@ with Bidirectional LSTM [[ConLL2016]](http://u.cs.biu.ac.il/~melamuo/publication
 
 ### Fundamental Deep Learning 
 * Learning to learn by gradient descent - by gradient descent! [[arXiv]](https://arxiv.org/abs/1606.04474) <br> 
+* Incremental Sequence Learning [[Website+paper]](https://edwin-de-jong.github.io/blog/isl/incremental-sequence-learning.html) <br>
 
 
 ### Computer Vision 
