@@ -43,3 +43,4 @@ with Bidirectional LSTM [[ConLL2016]](http://u.cs.biu.ac.il/~melamuo/publication
 * WaveNet: A Generative Model for Raw Audio [[website + paper]](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 * Learning to Communicate with Deep Multi-Agent Reinforcement Learning [[Github]](https://github.com/iassael/learning-to-communicate) <br>
   Tags: RL, multi-agent 
+* GAN-hacks: How to train a GAN? [[Hithub]](https://github.com/soumith/ganhacks)
