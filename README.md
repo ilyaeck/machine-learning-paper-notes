@@ -27,6 +27,7 @@ with Bidirectional LSTM [[ConLL2016]](http://u.cs.biu.ac.il/~melamuo/publication
   Tags: seq, compositionality, language model 
 * Layers of Interpretation: On Grammar and Compositionality [[ACL2016]](http://aclweb.org/anthology/W/W15/W15-0128.pdf) <br>
   Tags: compositionality
+
 #### Question Answering
 * Learning to Compose Neural Networks for Question Answering [[Github]](https://github.com/jacobandreas/nmn2) [[arXiv]](https://arxiv.org/abs/1601.01705)
 
