@@ -2,11 +2,11 @@
 
 ### The pitch
 Prior encoder-decoder (seq2seq) approaches translation have a major bottleneck: input sequences must be
-squashed into a fixed-length vector. This translations to break down for long sentences. Here, *attention* comes to resque
+squashed into a fixed-length vector. This translations to break down for long sentences. Here, *attention* comes to rescue
 and removes the fixed-length constraint.
 
 ### General idea
-OK, if straightforward seq2seq approach is not great for long sentences, how to we do better? 
+So, if straightforward seq2seq approach is not great for long sentences, how to we do better? 
 First, consider what it means to learn sentence translation from examples. The problem can be seen as a combination of two subproblems: (a) word alignment: given a sentences and its translation from language A to B, compute an alignment scoring matrix measuring the "relevance" of each word in A to each word in B (in a given local _context_); and (b) given a good aligment scoring function, actually compute the best alignment. If we can do both (a) and (b), we should be able to translate sentences, but it's a chicken and egg problem! Since we start with only examples (no dictionary), we don't really know the words' meanings to tell if a given word alignement is good or bad. Converseley, given an alignment scoring function, we have a good chance of funding an optimal sentence alignment e.g., using gradient descent (read: back-propagation). 
 
 ### Method
